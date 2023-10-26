@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <title> Tecnologías Backend</title>
+    <style type="text/css" media= "screen">
+    @import 'estilos.css';    
+    </style>
+</head>
+    
+<body>
+
+  <header>
+      <h1>Tecnologías backend</h1>
+  </header>
+  <nav>
+    <div id="contenido">
+        <div id="menu">
+        <ul> 
+            <li><a href= "index.html">Pagina Principal</a></li> 
+            <li><a href= "TecnologíasdeBackend.html">Tecnologías de desarrollo Backend</a></li>
+            <li><a href="EjemplosdeUso.html">Ejemplos de Uso</a></li>
+            <li><a href="Recursos.html">Recursos</a></li>
+            <li><a href="Registrate.html">Registrate</a></li>
+        </ul>
+</div>
+</div>
+</nav>
+
+<h2>Ejemplos de uso</h2>
+<h3>JAVASCRIPT – NODE.js</h3>
+<figure>
+        <img src="imagenes/b4.png" width="300" height="100" alt="foto"/>  
+        </figure>
+        LinkedIn es un servicio de redes sociales para las conexiones profesionales y los movimientos de carrera. Está dirigido a los candidatos que buscan avanzar en su carrera y a las empresas que buscan candidatos competitivos.
+
+        Linkedin comenzó a utilizar Node.js solo para su aplicación móvil y luego migró todo el código base a él. También registraron una velocidad de la aplicación 20 veces mayor que su iteración anterior con Ruby on Rails.
+<figure>
+        <img src="imagenes/b5.png" width="300" height="100" alt="foto"/>  
+        </figure>
+        Netflix es una plataforma de streaming de vídeo con millones de usuarios, que permite la transmisión de películas y programas de televisión a través de cualquier dispositivo o plataforma inteligente.
+
+        Según Netflix, construyeron su interfaz de usuario (UI) con Node.js por su modularidad. Netflix experimentó un tiempo de inicio dos veces más rápido al utilizar Node.js.
+
+<h3>PHP – LARAVEL</h3>
+<figure>
+        <img src="imagenes/b6.png" width="300" height="100" alt="foto"/>  
+        </figure>
+
+        Muchas empresas utilizan Laravel para ayudar a construir sitios web altamente funcionales:
+
+        Vacations by Rail es un sitio de planificación de viajes en tren construido con el framework PHP Laravel. También está integrado con el motor de reservas de Softrip.
+<figure>
+        <img src="imagenes/b7.png" width="300" height="100" alt="foto"/>  
+        </figure>
+        El sitio web de Setapp de aplicaciones comisariadas para Mac e iOS también está construido utilizando el framework PHP Laravel.
+</body>
