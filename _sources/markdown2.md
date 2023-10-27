@@ -1,8 +1,8 @@
-# Here's my sample title
+# Pagina 1
 
-This is some sample text.
+Algo de texto.
 
 (section-label)=
-## Here's my first section
+## Pagina 1
 
-Here is a [reference to the intro](intro.md). Here is a reference to [](section-label).
+Aqui esta una [referencia al inicio](intro.md). Aqui esta una referencia a: [](section-label).
