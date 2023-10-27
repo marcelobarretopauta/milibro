@@ -8,3 +8,6 @@ chapters:
 - file: notebooks
 - file: markdown-notebooks
 - file: markdown2
+- file: markdown3
+- file: markdown4
+- file: markdown5
